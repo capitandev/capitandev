@@ -1,5 +1,5 @@
 ### Hi.   <img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="70px">
-I'm [Abdulkahalik](https:///),  From Uzbekistan  <img src="https://media.giphy.com/media/h7S3EJgZ9Cc6eU1Ws9/giphy.gif" width="50px" >
+I'm [Abdulkahalik](https:///),  From Uzbekistan  <img src="https://media.giphy.com/media/h7S3EJgZ9Cc6eU1Ws9/giphy.gif" width="50px" />
 <video autoplay loop muted width="500" height="300" src="https://icons8.com/icon/ecnej834DMur/location"> Living Seoul, Korea
 <p> Computer Engineering  Student in <a href="https://en.seoultech.ac.kr/">Seoul National University of Science and Technology</a></p> 
 
