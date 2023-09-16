@@ -4,7 +4,7 @@ I'm [Abdulkahalik](https:///), a passionate self-taught full stack web developer
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://giphy.com/clips/thefastsaga-fast-and-furious-saga-fate-of-the-hZZQzvpi9gOIFRPUAr" width="500" height="320" />
+  <img align="right" alt="GIF"  <video autoplay loop muted width="500" height="320" src="https://giphy.com/clips/thefastsaga-fast-and-furious-saga-fate-of-the-hZZQzvpi9gOIFRPUAr"/>
   
 - 💼 any freelance work? do reach, [email](mailto:abdullainvsest@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
