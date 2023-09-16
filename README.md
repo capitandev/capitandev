@@ -1,8 +1,8 @@
 ### Hi.   <img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="70px">
 I'm [Abdulkahalik](https:///),  from Uzbekistan  <img src="https://media.giphy.com/media/h7S3EJgZ9Cc6eU1Ws9/giphy.gif" width="50px">
-<p> Living Seoul Korea <Img src="https://media.giphy.com/media/274oCYbGZUQKUEW5rH/giphy.gif" witdh="40px"
+<p> Living Seoul Korea <img src="https://media.giphy.com/media/274oCYbGZUQKUEW5rH/giphy.gif" witdh="40px"
 </p>
-Computer Engineering  Student in <a href="https://en.seoultech.ac.kr/">Seoul National University of Science and Technology</a> 
+<p> Computer Engineering  Student in <a href="https://en.seoultech.ac.kr/">Seoul National University of Science and Technology</a></p> 
 
 
 
