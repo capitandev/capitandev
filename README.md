@@ -4,7 +4,7 @@ I'm [Abdulkahalik](https:///),  From Uzbekistan  <img src="https://media.giphy.c
 <img src="https://media.giphy.com/media/PhTh7Gktc9fLqugycl/giphy.gif" 
         height="30px"
         width="30px"/> LIving Seoul, Korea</p>
-<p> <img src="https://media.giphy.com/media/tt0V7mVFAb7IKf1FmH/giphy.gif" height="30px" witdh="30px" Student of computer engineering at<a href="https://en.seoultech.ac.kr/">Seoul National University of Science and Technology</a></p> 
+<p> <img src="https://media.giphy.com/media/tt0V7mVFAb7IKf1FmH/giphy.gif" height="30px" witdh="30px" <a href="https://en.seoultech.ac.kr/"> Student of computer engineering atSeoul National University of Science and Technology</a></p> 
 
 
 
