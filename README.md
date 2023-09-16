@@ -1,7 +1,8 @@
 ### Hi.   <img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="70px">
-I'm [Abdulkahalik](https:///), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+I'm [Abdulkahalik](https:///),  from Uzbekistan <img src " https://media.giphy.com/media/h7S3EJgZ9Cc6eU1Ws9/giphy.gif" width="60px">
+Living Seoul Korea <Img src=" https://media.giphy.com/media/274oCYbGZUQKUEW5rH/giphy.gif" witdh="50px"
+Computer Engineering  Student in <a href="https://en.seoultech.ac.kr/">Seoul National University of Science and Technology</a> 
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
   
