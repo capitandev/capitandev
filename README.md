@@ -26,7 +26,7 @@ I'm [Alex](https:///),  From Uzbekistan  <img src="https://media.giphy.com/media
 
 <p> If you like what i do, maybe consider buying me a Coffee and Cake 🥺👉👈</p>
 <a href=" Buy me coke" target="_blank"><img src="https://media.giphy.com/media/3BMQ1y0Ytt6jb3JAdI/giphy.gif" alt="Buy Me A Coke" width="150" ></a>
-<a href="https://www.buymeacoffee.com/capiatndev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee and Coke" width="150" ></a>
+<a href="/capiatndev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee and Coke" width="150" ></a>
 
 
 
