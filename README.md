@@ -1,5 +1,5 @@
 ### Hi.    <img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="70px">
-I'm (Alex  (https:///),  From Uzbekistan  <img src="https://media.giphy.com/media/h7S3EJgZ9Cc6eU1Ws9/giphy.gif" width="50px" />
+I'm Alex   (https:///),  From Uzbekistan  <img src="https://media.giphy.com/media/h7S3EJgZ9Cc6eU1Ws9/giphy.gif" width="50px" />
 <p>
 <img src="https://media.giphy.com/media/PhTh7Gktc9fLqugycl/giphy.gif" 
         height="30px"
