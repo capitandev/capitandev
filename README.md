@@ -23,6 +23,3 @@ I'm Alex  <br> From Uzbekistan  <img src="https://media.giphy.com/media/h7S3EJgZ
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 <!--END_SECTION:waka-->
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[YourGitHub]&theme=github_dark" alt="[Your Name]'s GitHub Stats"/>
-</div>
