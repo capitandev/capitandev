@@ -9,7 +9,7 @@ I'm Alex  <br> From Uzbekistan  <img src="https://media.giphy.com/media/h7S3EJgZ
 
 
   
-- 💼 any freelance work? do reach, [email](mailto:abdullainvsest@gmail.com) :)
+- 💼 any freelance work? do serach, [email](mailto:abdullainvsest@gmail.com) :)
 - 💬 ask me about anything, i am happy to help
 
 **languages and tools:**  
