@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Alex
 
-🇺🇿 From Uzbekistan &nbsp;·&nbsp; 🏠 Living in Seoul, Korea
+ From Uzbekistan &nbsp;·&nbsp; 🏠 Living in Seoul, Korea
 
 🎓 Student of Computer Engineering at [Seoul National University of Science and Technology](https://www.seoultech.ac.kr)
 
@@ -40,10 +40,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=capitandev&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capitandev&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
+![capitandev's GitHub stats](https://github-readme-stats.vercel.app/api?username=capitandev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=capitandev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+---
 
 ---
 
