@@ -38,13 +38,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![capitandev's GitHub stats](https://github-readme-stats.vercel.app/api?username=capitandev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=capitandev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
----
+- 🔨 Currently working on fullstack web projects
+- 🌱 Learning DevOps & cloud infrastructure
+- 👯 Open to collaborate on open source projects
 
 ---
 
